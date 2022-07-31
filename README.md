@@ -1,1 +1,3 @@
-# C3PO-bot
+# C-3PO Discord Bot
+
+Discord Bot
